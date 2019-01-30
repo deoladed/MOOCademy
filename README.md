@@ -5,4 +5,8 @@ Rails vers : 5.2.1
 ## Contenu
 Une DB contenant des cours, leur titre et leur description relies a des lecons avec titre et contenu (body)! THP en pali....
 
-### Courage jeune correcteur !
+### Utilisation
+Apres le *git clone*, faite biensur un *bundle install* puis un *rails db:seed* pour creer la DB =)
+
+
+#### Courage jeune correcteur !
